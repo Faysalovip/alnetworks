@@ -15,9 +15,9 @@
 "iron_appkey":"147d445d9",
     
 
-"app_redirect":"yes",
+"app_redirect":"non",
 "redirect_package_name":"com.example.test",
-"start_backg_ads":"yes",
+"start_backg_ads":"non",
 "background_ads_delay":"15",
 
 "banner_network_choice":"applovin", 
