@@ -1,9 +1,9 @@
 {"ads":{
   
-"applovin_inter":"269d73adeea133fb",
-"applovin_native":"5534d47212ed8e80",
-"applovin_banner":"d7e5387a22cc8044",
-"applovin_appopen":"22184cfd97baef7c",
+"applovin_inter":"5b7703329c1ebaf2",
+"applovin_native":"b98838c9bc631f80",
+"applovin_banner":"6cb0e612e82e2a67",
+"applovin_appopen":"f647fb6d75faeaa6",
 
  
   
@@ -17,7 +17,7 @@
 
 
 "banner_network_choice":"applovin", 
-"interstisial_network_choice":"ironsource", 
+"interstisial_network_choice":"applovin", 
 "native_network_choice":"applovin"
   
 
